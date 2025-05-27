@@ -8,7 +8,7 @@ Chappie utilizes his *growing* skillsets & knowledge to help determine and execu
 
 | Name | Version | Install |
 |---|:-----:|:--:|
-| Chappie | Beta | [Download](https://www.icloud.com/shortcuts/b9ec4f6a28ea42f1a0baded702a3bfa9) |
+| Chappie | Beta | [Download](https://www.icloud.com/shortcuts/c2f4159628be48df8530373b2bf3a590) |
 
 ## Response Types
 ### Direct Response
