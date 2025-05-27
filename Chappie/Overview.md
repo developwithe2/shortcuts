@@ -8,7 +8,7 @@ Chappie utilizes his *growing* skillsets & knowledge to help determine and execu
 
 | Name | Version | Install |
 |---|:-----:|:--:|
-| Chappie | Beta | [Download](https://www.icloud.com/shortcuts/c2f4159628be48df8530373b2bf3a590) |
+| Chappie | Beta | [Download](https://www.icloud.com/shortcuts/6d8b769fda6a4411999a73dbffb8f5d3) |
 
 ## Response Types
 ### Direct Response
@@ -60,4 +60,4 @@ Chappie's teammates can provide a variety of capabilities that help to complete 
 
 | Name | Description | Version | Install |
 |---|:---------:|:-----:|:--:|
-| Ottio | The Audio Agent | Beta | [Download](https://www.icloud.com/shortcuts/f42e62f355f34fbe91cff439f3e4c462) |
+| Ottio | The Audio Agent | Beta | [Download](https://www.icloud.com/shortcuts/2188ff91c0704d05af699001082d0f74) |
