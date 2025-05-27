@@ -60,4 +60,4 @@ Chappie's teammates can provide a variety of capabilities that help to complete 
 
 | Name | Description | Version | Install |
 |---|:---------:|:-----:|:--:|
-| Ottio | The Audio Agent | Beta | [Download](https://www.icloud.com/shortcuts/2188ff91c0704d05af699001082d0f74) |
+| Oddio | The Audio Agent | Beta | [Download](https://www.icloud.com/shortcuts/2188ff91c0704d05af699001082d0f74) |
